@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Shop &#8211; Sih Project</title>
+	<atom:link href="https://swayam4751s.github.io/sih/shop/feed/" rel="self" type="application/rss+xml" />
+	<link>https://swayam4751s.github.io/sih</link>
+	<description></description>
+	<lastBuildDate>Tue, 03 Dec 2024 07:37:31 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.7.1</generator>
+	<item>
+		<title>A Beginner Crash Course Guide</title>
+		<link>https://swayam4751s.github.io/sih/product/keychains/</link>
+					<comments>https://swayam4751s.github.io/sih/product/keychains/#comments</comments>
+		
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<pubDate>Fri, 07 Jun 2013 11:37:23 +0000</pubDate>
+				<guid isPermaLink="false">http://demo2.woothemes.com/woocommerce/?post_type=product&#038;p=96</guid>
+
+					<description><![CDATA[Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas pretium pretium iaculis. Nullam vestibulum vestibulum libero. Phasellus ut pulvinar mi. Donec id pretium ante.]]></description>
+										<content:encoded><![CDATA[<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas pretium pretium iaculis. Nullam vestibulum vestibulum libero. Phasellus ut pulvinar mi. Donec id pretium ante.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://swayam4751s.github.io/sih/product/keychains/feed/</wfw:commentRss>
+			<slash:comments>1</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>What Do You Need to Know</title>
+		<link>https://swayam4751s.github.io/sih/product/brauhaus/</link>
+					<comments>https://swayam4751s.github.io/sih/product/brauhaus/#respond</comments>
+		
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<pubDate>Fri, 07 Jun 2013 10:49:51 +0000</pubDate>
+				<guid isPermaLink="false">http://demo2.woothemes.com/woocommerce/?post_type=product&#038;p=31</guid>
+
+					<description><![CDATA[Maecenas a arcu placerat, efficitur sem a, euismod magna. Morbi at purus auctor, venenatis ex eget, pretium tellus. Pellentesque bibendum orci non neque semper, quis semper nulla laoreet.]]></description>
+										<content:encoded><![CDATA[<p>Maecenas a arcu placerat, efficitur sem a, euismod magna. Morbi at purus auctor, venenatis ex eget, pretium tellus. Pellentesque bibendum orci non neque semper, quis semper nulla laoreet.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://swayam4751s.github.io/sih/product/brauhaus/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>The Complete Shopify Store</title>
+		<link>https://swayam4751s.github.io/sih/product/buschla/</link>
+					<comments>https://swayam4751s.github.io/sih/product/buschla/#respond</comments>
+		
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<pubDate>Fri, 07 Jun 2013 10:41:52 +0000</pubDate>
+				<guid isPermaLink="false">http://demo2.woothemes.com/woocommerce/?post_type=product&#038;p=19</guid>
+
+					<description><![CDATA[Aenean porta sit amet ipsum et pretium. In tempor mauris lectus, non tempor diam facilisis id. Nam nec magna metus. Sed ut risus tincidunt risus tempor venenatis. Proin imperdiet quis nisi sed tristique.]]></description>
+										<content:encoded><![CDATA[<p>Aenean porta sit amet ipsum et pretium. In tempor mauris lectus, non tempor diam facilisis id. Nam nec magna metus. Sed ut risus tincidunt risus tempor venenatis. Proin imperdiet quis nisi sed tristique.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://swayam4751s.github.io/sih/product/buschla/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>
